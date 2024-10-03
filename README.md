@@ -6,6 +6,9 @@
 
 - 🥳 Header , Footer , Nav , Display 4 Products 
 
+![Home NF](https://github.com/user-attachments/assets/86ce441c-5e19-4b0d-aad2-2c0375440c18)
+
+![Products NF](https://github.com/user-attachments/assets/2fd3651a-54e1-4f01-a53c-e7c56916ce13)
 
 - 🔥 Html5 Elements
 - 🔥 Html5 Semantics
